@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:16:1-35:12
+MERGED from [com.android.support:design:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c98fd74668145d1742f0574cb472a905/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bbc4f38a64d63dcd1bdc6f0d1ef2bd79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/e8200b69fe05386c52872089feb13616/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e3c748a253849f0980e316e06db97dee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/8bef2789f24529b7b89ea320b97b8efb/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/fe7202a369b29a68977cc24136a938a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/92c1c902af55cee40e5841df3a589943/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b1109499f4f91168e2e1aae916437404/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f6a38e5937acb9327bbb1d76e463c915/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/93c642ca12d5f9fdae998bd92234d526/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/692a809901c03e7e0828625988b4c1f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a36c277924d6ffc9d133f6ecd3ff5c7a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e4737421f08dd1d80db7a64107b8e00e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bb5aed6d0f761f47ae3ba539513752fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/b032cd130fadc3995f65ec2de7385263/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2a15f91aa99f576f9df1bfa71eb31616/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/95e4aa0afe3c41b0a8dc297b15e00e0a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7547dd30c711da324daf54d0f786592b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4ff5bab064d4fffcc891acb861e2016a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:16:1-35:12
+	package
+		ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:17:5-45
+		INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:16:1-35:12
+		INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:16:1-35:12
+		INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:16:11-69
+application
+ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:19:5-33:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/8bef2789f24529b7b89ea320b97b8efb/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/8bef2789f24529b7b89ea320b97b8efb/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/b032cd130fadc3995f65ec2de7385263/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/b032cd130fadc3995f65ec2de7385263/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.android.materialme.MainActivity
+ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:25:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.example.android.materialme.DetailActivity
+ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:32:9-61
+	android:name
+		ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml:32:19-49
+uses-sdk
+INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c98fd74668145d1742f0574cb472a905/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c98fd74668145d1742f0574cb472a905/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bbc4f38a64d63dcd1bdc6f0d1ef2bd79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bbc4f38a64d63dcd1bdc6f0d1ef2bd79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/e8200b69fe05386c52872089feb13616/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/e8200b69fe05386c52872089feb13616/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e3c748a253849f0980e316e06db97dee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e3c748a253849f0980e316e06db97dee/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/8bef2789f24529b7b89ea320b97b8efb/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/8bef2789f24529b7b89ea320b97b8efb/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/fe7202a369b29a68977cc24136a938a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/fe7202a369b29a68977cc24136a938a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/92c1c902af55cee40e5841df3a589943/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/92c1c902af55cee40e5841df3a589943/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b1109499f4f91168e2e1aae916437404/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b1109499f4f91168e2e1aae916437404/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f6a38e5937acb9327bbb1d76e463c915/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f6a38e5937acb9327bbb1d76e463c915/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/93c642ca12d5f9fdae998bd92234d526/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/93c642ca12d5f9fdae998bd92234d526/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/692a809901c03e7e0828625988b4c1f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/692a809901c03e7e0828625988b4c1f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a36c277924d6ffc9d133f6ecd3ff5c7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a36c277924d6ffc9d133f6ecd3ff5c7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e4737421f08dd1d80db7a64107b8e00e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e4737421f08dd1d80db7a64107b8e00e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bb5aed6d0f761f47ae3ba539513752fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bb5aed6d0f761f47ae3ba539513752fb/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/b032cd130fadc3995f65ec2de7385263/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/b032cd130fadc3995f65ec2de7385263/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2a15f91aa99f576f9df1bfa71eb31616/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2a15f91aa99f576f9df1bfa71eb31616/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/95e4aa0afe3c41b0a8dc297b15e00e0a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/95e4aa0afe3c41b0a8dc297b15e00e0a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7547dd30c711da324daf54d0f786592b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7547dd30c711da324daf54d0f786592b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4ff5bab064d4fffcc891acb861e2016a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/greggnicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4ff5bab064d4fffcc891acb861e2016a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/greggnicholas/Downloads/android-fundamentals-apps-v2-master/MaterialMe/app/src/main/AndroidManifest.xml
